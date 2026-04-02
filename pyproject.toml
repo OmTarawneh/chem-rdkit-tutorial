@@ -15,5 +15,8 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "black>=26.3.1",
+    "isort>=8.0.1",
+    "jupyterlab-code-formatter>=3.0.3",
     "jupyterlab-vim>=4.1.4",
 ]
