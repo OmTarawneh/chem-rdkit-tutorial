@@ -19,6 +19,7 @@ Learning cheminformatics with RDKit through Jupyter notebooks.
 | 11  | [Exercises](notebooks/11-exercises.ipynb)                                     | Practice problems for all topics                          |
 | 12  | [Atom Feature Vector](notebooks/12-atom-feature-vector.ipynb)                 | Atom Feature Vector                                       |
 | 13  | [3D Molecular Visualization](notebooks/13-3d-molecular-representations.ipynb) | 3D Molecular Visualtzation                                |
+| 14  | [Graph Laplacian & Spectrum](notebooks/14-graph-laplacian-spectrum.ipynb)     | Degree matrix, Laplacian, eigenvalues, spectral preview   |
 
 Each notebook includes chemistry refreshers that bridge wet-lab intuition to computational concepts.
 
